@@ -1,4 +1,4 @@
-# Reusable-Table-View-Controller
+# Reusable Table View Controller
 
 This is an interactive playground based on Chris Eidhof's great [*try!Swift* 2016 talk](https://github.com/nsakaimbo/Reusable-Table-View-Controller.git) on implementing a reusable, generic table view controller. Highlights include generic table view and cell configuration, as well implementing editing history (track/undo changes).
 
